@@ -1,0 +1,47 @@
+Project:Household Power Consumption.
+
+
+Machine Learning Project Description :
+
+Name of the Datasets : Household Power Consumption.
+Dataset is a minute wise data logging of Power Consumption of a Household Consumption
+Data Record Duration : December 2006 to November 2010 (4 Years).
+Record Frequency : Per minute
+Features recorded (07 No.) :
+Global Active Power
+Global Reactive Power
+Voltage
+Global Intensity
+Sub metering 1
+Sub metering 2
+Sub metering 3
+Observations : 2075259 (around 2 million)
+
+Objective of the project:
+
+Develop a Machine Learning model to predict the Global Intensity
+Develop a Machine Learning model to predict if the Global Intensity is greater than 15.
+ 
+
+Technology:
+
+language--Python
+
+Python Modules:
+
+Pandas
+Numpy
+Matplotlib
+Seaborn
+sklearn
+
+Algorithms used:
+
+Linear Regression
+
+SVM
+
+Random Forest
+
+Decision Tree.
+
